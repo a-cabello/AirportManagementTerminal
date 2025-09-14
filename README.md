@@ -24,5 +24,5 @@ A Java project that allows managing flights, airplanes, and passengers through t
 <h2><b>How do I try it?:</h2></b>
 
 1:Clone the repository:
-git clone https://github.com/your-username/flight-management.git
-cd flight-management
+git clone https://github.com/a-cabello/AirportManagementTerminal.git)
+cd AirportManagementTerminal
