@@ -24,5 +24,14 @@ A Java project I developed during my first year at university. It’s an interac
 <h2><b>How do I try it?:</h2></b>
 
 1:Clone the repository:
+
+```bash
 git clone https://github.com/a-cabello/AirportManagementTerminal.git)
+
 cd AirportManagementTerminal
+
+javac Main.java
+
+java Main
+
+```
