@@ -16,7 +16,7 @@ A Java project I developed during my first year at university. It’s an interac
 
 <h2><b>Requirements:</h2></b>
 
-- Java 8 or higher.
+- Java 21 or higher.
 
 - Terminal or console to run the program.
 
