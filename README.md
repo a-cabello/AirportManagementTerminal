@@ -1,4 +1,4 @@
-<h1><strong># AirportManagementTerminal</h1></strong>
+<h1><strong>AirportManagementTerminal</h1></strong>
 
 A Java project that allows managing flights, airplanes, and passengers through the terminal. It’s an interactive system designed for airline management or educational purposes.
 
