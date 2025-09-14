@@ -174,7 +174,7 @@ public class Main {
         Air.listaDeBilletes = new ListaBilletes(Air.maxBilletesPasajero*Air.maxPasajeros);
         Air.listaDeVuelos = new ListaVuelos(Air.maxVuelos);
         Scanner teclado = new Scanner(System.in);
-        Air.cargarDatos("aeropuertos.csv","aviones.csv","vuelos.csv","pasajeros.csv","billetes.csv");
+        Air.cargarDatos("../aeropuertos.csv","../aviones.csv","../vuelos.csv","../pasajeros.csv","../billetes.csv");
         int opcion,cont1=0;
         Vuelo vuelo;
         Pasajero pasajero ;

@@ -37,5 +37,5 @@ javac Main.java
 ```
 4: Run it
 ```bash
-java Main
+java Main <maxAeropuertos(int)> <maxAviones(int)> <maxVuelos(int)> <maxPasajeros(int)> <maxBilletesPorPasajero(int)>
 ```
