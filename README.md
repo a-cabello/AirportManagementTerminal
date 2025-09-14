@@ -1,6 +1,6 @@
 <h1><strong>AirportManagementTerminal</h1></strong>
 
-A Java project that allows managing flights, airplanes, and passengers through the terminal. It’s an interactive system designed for airline management or educational purposes.
+A Java project I developed during my first year at university. It’s an interactive terminal-based system for managing flights, airplanes, and passengers, designed for educational purposes and basic airline management simulations.
 
 <h2><b>Features:</h2></b>
 
