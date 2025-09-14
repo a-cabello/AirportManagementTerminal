@@ -25,7 +25,7 @@ A Java project I developed during my first year at university. It’s an interac
 
 1: Clone the repository:
 ```bash
-git clone https://github.com/a-cabello/AirportManagementTerminal.git)
+git clone https://github.com/a-cabello/AirportManagementTerminal.git
 ```
 2: Move to the correct directory
 ```bash
