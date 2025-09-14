@@ -23,15 +23,19 @@ A Java project I developed during my first year at university. It’s an interac
 
 <h2><b>How do I try it?:</h2></b>
 
-1:Clone the repository:
-
+1: Clone the repository:
 ```bash
 git clone https://github.com/a-cabello/AirportManagementTerminal.git)
-
-cd AirportManagementTerminal
-
+```
+2: Move to the correct directory
+```bash
+cd AirportManagementTerminal/src
+```
+3: Compile the proyect
+```bash
 javac Main.java
-
+```
+4: Run it
+```bash
 java Main
-
 ```
